@@ -1,2 +1,2 @@
 # CMP104-CyberPet
-CMP103-Programming with C++ Assigment
+CMP104-Programming with C++ Assigment
